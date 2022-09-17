@@ -1,0 +1,8 @@
+--2022-08-06 23:19:52--  https://download.cs.stanford.edu/viscam/ObjectFolder/ObjectFolder201-300.tar.gz
+Resolving download.cs.stanford.edu (download.cs.stanford.edu)... 171.64.64.22
+Connecting to download.cs.stanford.edu (download.cs.stanford.edu)|171.64.64.22|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3777111662 (3.5G) [application/octet-stream]
+Saving to: ‘ObjectFolder201-300.tar.gz.1’
+
+  ObjectFolder201-3   0%[                    ]   3.75M  --.-KB/s    eta 5d 8h  
